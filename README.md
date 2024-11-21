@@ -1,0 +1,3 @@
+- git clone --recursive https://github.com/dlatth/2024_2_6_final.git
+- cd 2024_2_6_final
+- docker compose up -d
