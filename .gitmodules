@@ -1,0 +1,6 @@
+[submodule "project_react-deployment-repo"]
+	path = project_react-deployment-repo
+	url = https://github.com/2024Capstone-6/project_react-deployment-repo.git
+[submodule "project_nest-deployment-repo"]
+	path = project_nest-deployment-repo
+	url = https://github.com/2024Capstone-6/project_nest-deployment-repo.git
