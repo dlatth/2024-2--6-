@@ -1,4 +1,0 @@
-INSERT INTO activities (id, email, date, title, content, mediaUrl) VALUES
-(1, 'dlat.th45@gmail.com', '2024-12-13 16:08:00', '오사카 아쿠아리움', '고래상어가 유명한 아쿠아리움이지만\n거대한 가오리가 더 귀엽지', 'https://2024-2-team6-kr.s3.ap-northeast-2.amazonaws.com/activities/1734073735485-rgiew.jpeg'),
-(2, 'dlat.th45@gmail.com', '2024-12-13 16:09:00', '기업 견학에서 본 AI 로봇', '정말 얘 너무 귀여워서 5년 할부로 사버릴 뻔\n언젠가 일본에 취업하면 꼭 꼭 데려와야지\n파랑이가 조금 더 귀여웠던거 같기도 하고', 'https://2024-2-team6-kr.s3.ap-northeast-2.amazonaws.com/activities/1734073776307-k02fl.jpeg'),
-(3, 'dlat.th45@gmail.com', '2024-12-13 16:10:00', '오사카 동물원!', '키위새를 키위 포장지 같은거에 포장해둔거보고\n하나 사버릴뻔 했다 그냥 살껄', 'https://2024-2-team6-kr.s3.ap-northeast-2.amazonaws.com/activities/1734073812663-yrr89.jpeg');
